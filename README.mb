@@ -29,3 +29,9 @@ Os requisitos não funcionais descrevem características de qualidade do sistema
 - RNF05: O sistema deve funcionar nos principais navegadores modernos (Chrome, Firefox, Edge e Safari).
 - RNF06: O código deve ser organizado e documentado para facilitar a manutenção.
 - RNF07: O sistema deve garantir a disponibilidade das informações apresentadas.
+
+## Aplicação de Herança
+
+O sistema utiliza o conceito de herança da Programação Orientada a Objetos para promover o reaproveitamento de código e facilitar a manutenção. A classe `Conteudo` representa informações gerais exibidas no sistema, contendo atributos comuns como título e descrição.
+
+A partir dela são criadas classes especializadas, como `Noticia` e `Estatistica`, que herdam suas características básicas e adicionam atributos específicos. Dessa forma, o projeto segue os princípios da orientação a objetos, tornando a estrutura mais organizada, escalável e de fácil manutenção.
