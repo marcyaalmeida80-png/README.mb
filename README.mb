@@ -1,0 +1,31 @@
+# Projeto: Inclusão Digital em Fortaleza
+
+## Proposta do Sistema
+
+Este sistema tem como objetivo disponibilizar informações sobre a desigualdade no acesso à tecnologia e a alfabetização digital em Fortaleza. A plataforma busca reunir dados estatísticos, gráficos e conteúdos informativos de forma simples e acessível, permitindo que estudantes, pesquisadores e a população em geral compreendam melhor os desafios relacionados à inclusão digital na cidade.
+
+Além disso, o sistema pretende facilitar a consulta de informações relevantes sobre acesso à internet, uso de dispositivos tecnológicos e níveis de alfabetização digital, contribuindo para a conscientização social e para o desenvolvimento de iniciativas que promovam a inclusão digital.
+
+## Requisitos Funcionais
+
+Os requisitos funcionais descrevem o que o sistema deve fazer.
+
+- RF01: Exibir informações sobre desigualdade no acesso à tecnologia em Fortaleza.
+- RF02: Apresentar dados estatísticos sobre alfabetização digital.
+- RF03: Permitir a navegação entre diferentes seções do site.
+- RF04: Exibir gráficos e indicadores relacionados ao tema.
+- RF05: Disponibilizar conteúdos educativos sobre inclusão digital.
+- RF06: Permitir a consulta de dados por categoria.
+- RF07: Exibir informações de forma organizada e intuitiva.
+
+## Requisitos Não Funcionais
+
+Os requisitos não funcionais descrevem características de qualidade do sistema.
+
+- RNF01: O sistema deve possuir interface responsiva para computadores e dispositivos móveis.
+- RNF02: As páginas devem carregar em até 3 segundos em condições normais de internet.
+- RNF03: O sistema deve ser desenvolvido utilizando HTML, CSS e JavaScript.
+- RNF04: O sistema deve apresentar informações de forma clara e acessível.
+- RNF05: O sistema deve funcionar nos principais navegadores modernos (Chrome, Firefox, Edge e Safari).
+- RNF06: O código deve ser organizado e documentado para facilitar a manutenção.
+- RNF07: O sistema deve garantir a disponibilidade das informações apresentadas.
