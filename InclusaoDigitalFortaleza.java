@@ -949,10 +949,10 @@ class ApiClient {
  */
 public class InclusaoDigitalFortaleza {
     public static void main(String[] args) {
-        System.out.println("╔════════════════════════════════════════════════════════════════╗");
+        System.out.println("╔════════════════════════════════════════════════════════════╗");
         System.out.println("║    🌐 PROJETO: INCLUSÃO DIGITAL EM FORTALEZA                   ║");
         System.out.println("║    Implementação Completa em Java                              ║");
-        System.out.println("╚════════════════════════════════════════════════════════════════╝");
+        System.out.println("╚════════════════════════════════════════════════════════════╝");
 
         // 1. DEMONSTRAÇÃO DE HERANÇA E REQUISITOS
         System.out.println("\n" + "=".repeat(60));
